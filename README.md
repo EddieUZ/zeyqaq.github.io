@@ -1,6 +1,3 @@
-# ZEYQAQ：Share my ideas :link: https://EddieUZ.github.io/zeyqaq.github.io 
-### :page_facing_up: [2](https://EddieUZ.github.io/zeyqaq.github.io/tag.html) 
-### :speech_balloon: 0 
-### :hibiscus: 54 
-### :alarm_clock: 2024-09-05 17:28:36 
-### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
+#基于GitHub_Issues建立的博客网页。
+##link：https：\\blog.zeyqaq.com
+争取每天记录点心得体会，如果能在技术上学到新的知识就更好了！
