@@ -1,5 +1,6 @@
-# 基于 GitHub Issues 建立的博客网页
-
-## 链接：[blog.zeyqaq.com](https://blog.zeyqaq.com)
-
-争取每天记录点心得体会，如果能在技术上学到新的知识就更好了！
+# ZEYQAQ：Share my ideas :link: https://EddieUZ.github.io/zeyqaq.github.io 
+### :page_facing_up: [1](https://EddieUZ.github.io/zeyqaq.github.io/tag.html) 
+### :speech_balloon: 0 
+### :hibiscus: 427 
+### :alarm_clock: 2024-09-06 16:22:34 
+### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
